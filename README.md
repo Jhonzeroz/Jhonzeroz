@@ -11,7 +11,7 @@ Actualmente desempeño el rol de Ingeniero de Datos en la empresa en la que trab
 
 <br>
 
-<span><img src="https://img.shields.io/badge/logo-gitlab-blue?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></span>
+<span><img src="https://img.shields.io/badge/logo-gitlab-blue?style=for-the-badge&logo=html5&logoColor=white"  title="Gitlab" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
