@@ -11,7 +11,7 @@ Actualmente desempeño el rol de Ingeniero de Datos en la empresa en la que trab
 
 <br>
 
-<span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></span>
+<span><img src="https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" /></span>
 &nbsp;
@@ -25,12 +25,6 @@ Actualmente desempeño el rol de Ingeniero de Datos en la empresa en la que trab
 <span>
 <img src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo"  title="Java" height="25"/>
 </span>
-&nbsp;
-<br>
-
-### <u> Frontend Development Technologies and Tools: </u>
-
-<br>
 
 <span><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
