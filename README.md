@@ -2,7 +2,7 @@
 
 I am a Systems and Computer Engineer, as well as a Software Analysis and Development Technologist, with over 12 years of experience in the web and mobile development field. I started my journey working with Visual Fox Pro and have since evolved with various cutting-edge technologies, which have significantly contributed to the advancement of my professional career. I have designed IT solutions for large companies, covering different areas and needs.
 
-## Anything else?"
+## Anything else? 
 Currently, I hold the role of Data Engineer at the company where I work, actively participating in the design and implementation of innovative technological solutions. Additionally, I am a co-founder of DevSolutions, a company specializing in custom software development, web and mobile applications, as well as providing consultancy and auditing services in the IT field. At DevSolutions, we have created meaningful tools that have streamlined our clients' daily operations, showcasing our commitment to excellence and customer satisfaction in every project we undertake.
 
 ## ⚒️ My projects:
