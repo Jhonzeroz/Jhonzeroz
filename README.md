@@ -16,7 +16,7 @@ Actualmente desempeño el rol de Ingeniero de Datos en la empresa en la que trab
 - DNApp
 <br>
 
-<h3>🛠 Tech Stack</h3>
+##  <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Php | Python | C# | C++ | HTML | CSS | JavaScript 
 - 🌐 &nbsp; Android | .Net Maui | J2EE
@@ -24,6 +24,7 @@ Actualmente desempeño el rol de Ingeniero de Datos en la empresa en la que trab
 - 🔧 &nbsp; Android Studio | Xamarin Form  | .Net Maui | Visual Studio code | Git
 - 🖥 &nbsp; Adobe Photoshop
 <br>
+
 ## 🚀💻 Technologies & Tools
 <p align="center"> 
   <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> 
