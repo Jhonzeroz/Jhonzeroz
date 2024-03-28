@@ -7,13 +7,13 @@ Actualmente desempeño el rol de Ingeniero de Datos en la empresa en la que trab
 
 ## ⚒️ My projects:
 
-## -Report+
-## -Alertify+
-## -SIMFIM Movil
-## -SIMFIM Web
-## -LearnFree
-## -Safety Movil
-## -DNApp
+- Report+
+- Alertify+
+- SIMFIM Movil
+- SIMFIM Web
+- LearnFree
+- Safety Movil
+- DNApp
 
 <h3>🛠 Tech Stack</h3>
 
