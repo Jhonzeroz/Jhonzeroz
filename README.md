@@ -58,10 +58,10 @@ Actualmente desempeño el rol de Ingeniero de Datos en la empresa en la que trab
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>  
 
-### <u> Mobile App Development Technologies & Tools: </u>
+<h3> 🤝🏻 Connect with Me </h3>
 
-<br>
+<p align="center">
 
-<span>
-<img src = "https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25"/>
-</span>
+&nbsp; <a href="https://www.linkedin.com/in/jhonathan-ramirez-09474169/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+
+</p>
