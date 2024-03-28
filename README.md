@@ -5,6 +5,16 @@ Soy Ingeniero de Sistemas y Computación, así como Tecnólogo en Análisis y De
 ## Algo mas ?
 Actualmente desempeño el rol de Ingeniero de Datos en la empresa en la que trabajo, donde participo en el diseño e implementación de soluciones tecnológicas innovadoras. Además, soy co-fundador de DevSolutions, una empresa especializada en el desarrollo de software a medida, aplicaciones web y móviles, así como en brindar servicios de asesoría y auditoría en el ámbito informático. En DevSolutions , hemos creado herramientas significativas que han optimizado las operaciones diarias de nuestros clientes, demostrando nuestro compromiso con la excelencia y la satisfacción del cliente en cada proyecto que emprendemos.
 
+
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Php | C# | C++ | HTML | CSS | JavaScript 
+- 🌐 &nbsp; Android | .Net Maui | J2EE
+- 🛢 &nbsp; MySQL | Oracle | SqlServer |Firebase
+- 🔧 &nbsp; Android Studio | Xamarin Form | Visual Studio code | .Net Maui | Git
+- 🖥 &nbsp; Adobe Photoshop | OpenShot
+
 ## 🚀💻 Technologies & Tools
 <p align="center"> 
   <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> 
