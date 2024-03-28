@@ -14,6 +14,7 @@ Actualmente desempeño el rol de Ingeniero de Datos en la empresa en la que trab
 - LearnFree
 - Safety Movil
 - DNApp
+<br>
 
 <h3>🛠 Tech Stack</h3>
 
@@ -22,9 +23,7 @@ Actualmente desempeño el rol de Ingeniero de Datos en la empresa en la que trab
 - 🛢 &nbsp; MySQL | Oracle | SqlServer | Firebase | SQLite | Talend Studio
 - 🔧 &nbsp; Android Studio | Xamarin Form  | .Net Maui | Visual Studio code | Git
 - 🖥 &nbsp; Adobe Photoshop
-
-  
-
+<br>
 ## 🚀💻 Technologies & Tools
 <p align="center"> 
   <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> 
@@ -57,6 +56,7 @@ Actualmente desempeño el rol de Ingeniero de Datos en la empresa en la que trab
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>   </a>   
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>  
+<br>
 
 <h3> 🤝🏻 Connect with Me </h3>
 
