@@ -14,7 +14,6 @@ Actualmente desempeño el rol de Ingeniero de Datos en la empresa en la que trab
 - LearnFree
 - Safety Movil
 - DNApp
-<br>
 
 ##  <h3>🛠 Tech Stack</h3>
 
